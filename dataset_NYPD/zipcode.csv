@@ -89,8 +89,12 @@ zipcode,area
 10055,Manhattan
 10060,Manhattan
 10060,Manhattan
+10065,Manhattan
+10065,Manhattan
 10069,Manhattan
 10069,Manhattan
+10075,Manhattan
+10075,Manhattan
 10090,Manhattan
 10090,Manhattan
 10095,Manhattan
@@ -267,8 +271,16 @@ zipcode,area
 10474,Bronx
 10475,Bronx
 10475,Bronx
+10803,Bronx
+10803,Bronx
+11001,Queens
+11001,Queens
 11004,Queens
 11004,Queens
+11005,Queens
+11005,Queens
+11040,Queens
+11040,Queens
 11101,Queens
 11101,Queens
 11102,Queens
@@ -365,6 +377,8 @@ zipcode,area
 11243,Brooklyn
 11249,Brooklyn
 11249,Brooklyn
+11251,Brooklyn
+11251,Brooklyn
 11252,Brooklyn
 11252,Brooklyn
 11256,Brooklyn
@@ -477,5 +491,7 @@ zipcode,area
 11693,Queens
 11694,Queens
 11694,Queens
+11695,Queens
+11695,Queens
 11697,Queens
 11697,Queens
